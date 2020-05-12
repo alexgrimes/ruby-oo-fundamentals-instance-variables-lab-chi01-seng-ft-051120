@@ -1,8 +1,11 @@
 require 'pry'
 class Dog 
   def name=(dog_name)
-  name = "Lassie"
+  this_dogs_name = dog_name
   end 
   
+  def
+    this_dogs_name
+  end 
   #binding.pry 
 end 
