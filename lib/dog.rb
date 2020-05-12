@@ -8,7 +8,7 @@ class Dog
   
   #Reads the name 
   def name 
-    this_dogs_name
+    @this_dogs_name
   end 
   #binding.pry 
 end 
