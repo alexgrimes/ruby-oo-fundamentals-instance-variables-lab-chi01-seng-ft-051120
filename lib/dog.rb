@@ -4,5 +4,5 @@ class Dog
   name = "Lassie"
   end 
   
-  binding.pry 
+  #binding.pry 
 end 
