@@ -1,4 +1,4 @@
-require 'pry'
+#require 'pry'
 class Dog 
   
   #takes an argument of a dog's name and writes it to a variable
